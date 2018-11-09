@@ -1,0 +1,29 @@
+ ***brief
+	(explication technique du projet 
+	donné le plan,et les objet a utiliser 
+	expliquer certain mode de fonction)
+
+****wirefram:
+	"front(codé avec angular et ionic)",
+	"backend:(symfoni4,API)
+
+dans la maquette
+	::titre 
+	::des screens
+	::date de realisation
+	::membre d'equipes
+	::description du projet
+	::specifications techniques (telecharge utilisées)
+	::etapes de la realisation
+	::difficulté rencontré
+	::mes developpent spécifique
+	::competence developpés
+
+****** les composant de mon porfolio
+{..blueasy
+..langerba}
+********debut du backend
+..space invader
+..explorateur
+..Anuaire de film
+..meme genrator
