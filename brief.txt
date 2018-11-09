@@ -1,5 +1,7 @@
 Objectif :
-j'elabore ce brief pour mettre en place mon porfolio afin de pouvoir 
+j'elabore ce brief pour mettre en place mon projet 
+a fin de pouvoir montré les language que je metrise et sur les-quelles on a
+ pu etudier pendant toute la duré du formation a Access code school. 
 
 
 	dans mon projet il y'aura:
@@ -12,6 +14,7 @@ acceuille
 	--mon cv
 -blog
 -contact
+
 2°)MES projet
 --blueasy
 --langerba
@@ -19,13 +22,11 @@ acceuille
 --explorateur de fichier
 --Annuaire film
 --meme generator
+
 3°) me recruter
 --mes competances
 --mes realisation (refactory)
-***********************
-et pour réaliser tout cela  on n'aura besoin de l'ionic et angular 
-pour le developpement du front et pour le back office on va le faire 
-avec le framwork symfony4 
+
 --mon cv
 4°)blog
 --article1
@@ -38,4 +39,8 @@ avec le framwork symfony4
 --article n
 5°)contact
 *formulaire a remplir
-*sugestion
+
+***********************
+et pour réaliser tout cela  on n'aura besoin de l'ionic et angular 
+pour le developpement du front et pour le back office	 on va le faire
+avec symfony4 
