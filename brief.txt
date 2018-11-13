@@ -1,21 +1,25 @@
 Objectif :
-j'elabore ce brief pour mettre en place mon projet 
-a fin de pouvoir montré les language que je metrise et sur les-quelles on a
- pu etudier pendant toute la duré du formation a Access code school. 
+	j'elabore ce brief pour mettre en place mon projet 
+	a fin de pouvoir montré les languages que je metrise et sur les-quelles on a
+ 	pu etudier pendant toute la duré du formation a Access code school. une application 
+	repersentant mon porfolio et mon cv.
 
+Description fonctionnelle:
+	mon projet sera une application mobile et desktop
+	avec dans la page d'accueil toute mes differentes pages cliquable.il y'aura toute les informations
+	me consernant et sur les equipe je travalle.
 
-	dans mon projet il y'aura:
-
+En resumé elle sera comme suite:
 1°)mes pages:
-acceuille
--mes projets
--me recruter 
+->acceuille
+->mes projets
+->me recruter 
 	--mes competence
 	--mon cv
--blog
--contact
+->blog
+->contact
 
-2°)MES projet
+2°)Mes projets
 --blueasy
 --langerba
 --space invader
@@ -41,6 +45,8 @@ acceuille
 *formulaire a remplir
 
 ***********************
-et pour réaliser tout cela  on n'aura besoin de l'ionic et angular 
-pour le developpement du front et pour le back office	 on va le faire
-avec symfony4 
+Description technique
+	pour le bon fonnctionnement de mon porfolio elle sera fait en deux version mobil et desktop
+	 l'application mobile sera developpé avec angular/ionic coté front 
+	et angular pour desktop et le coté back_end se fera avec symfony 4 
+	
